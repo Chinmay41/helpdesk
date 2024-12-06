@@ -2,7 +2,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://https://github.com/Chinmay41/helpdesk.git
+   git clone https://github.com/Chinmay41/helpdesk.git
 2. Navigate to the project directory:
    ```bash
    cd helpdesk
